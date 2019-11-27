@@ -9,6 +9,3 @@ print("landpack-")
 def index():
     return "Hello Edith"
 
-if __name__ == '__main__':
-    print("landpack-listen")
-    application.run()
